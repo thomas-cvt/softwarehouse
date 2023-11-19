@@ -1,0 +1,50 @@
+R-1,Tondeuse à gazon,270.0,23.0,10,B-66
+R-2,Bêche,20.0,3.0,18,B-1
+R-3,Râteau,28.0,2.4,34,B-2
+R-4,Arrosoir,15.0,2.3,9,B-3
+R-5,Pelle,14.0,4.0,4,B-4
+R-6,Sécateur,17.0,0.6,0,B-44
+R-7,Pulvérisateur,7.0,0.1,13,B-5
+R-8,Hache,30.0,1.7,12,B-68
+R-9,Gants de jardinage,5.0,0.15,14,B-7
+R-10,Machine à laver,300.0,17.0,3,B-77
+R-11,Four à micro-ondes,150.0,5.0,5,B-39
+R-12,Lave-vaisselle,399.0,34.0,8,B-70
+R-13,Aspirateur,199.0,4.0,7,B-9
+R-14,Fer à repasser,30.0,1.6,17,B-10
+R-15,Robot culinaire,499.0,7.0,8,B-37
+R-16,Cafetière,299.0,8.0,5,B-14
+R-17,Grille-pain,69.0,3.0,10,B-12
+R-18,Bouilloire électrique,27.0,1.4,18,B-49
+R-19,Blender,70.0,3.0,10,B-71
+R-20,Ballon de football,16.0,0.4,30,B-56
+R-21,Raquette de tennis,50.0,0.3,10,B-40
+R-22,Planche de surf,499.0,10.0,13,B-59
+R-23,Vtt,500.0,16.0,59,B-16
+R-24,Casque de vélo,20.0,0.3,7,B-17
+R-25,none,0.0,0.0,0,None
+R-26,Raquette de badminton,25.0,400.0,20,B-60
+R-27,Corde à sauter,9.0,0.1,18,B-19
+R-28,Sac de sport,47.0,1.9,10,B-42
+R-29,Tapis de yoga,20.0,0.8,9,B-78
+R-30,Stylos à bille,4.0,0.15,30,B-38
+R-31,Feuilles de papier,6.0,3.5,36,B-46
+R-32,Agrafeuse,15.0,0.3,13,B-22
+R-33,Trombones,3.0,0.1,28,B-43
+R-34,Calculatrice,40.0,0.4,17,B-23
+R-35,none,0.0,0.0,0,None
+R-36,Carnet de notes,3.0,0.2,29,B-62
+R-37,none,0.0,0.0,0,None
+R-38,Enveloppes,2.5,0.2,25,B-69
+R-39,Post-It,2.0,0.1,37,B-25
+R-40,Ordinateur portable,700.0,2.8,10,B-26
+R-41,Souris sans fil,30.0,0.5,15,B-54
+R-42,Clavier,40.0,0.3,21,B-27
+R-43,Imprimante,80.0,4.3,20,B-28
+R-44,Carte graphique,600.0,2.3,10,B-29
+R-45,Microphone,30.0,1.4,25,B-52
+R-46,Mémoire Ram,23.0,0.1,23,B-80
+R-47,Webcam,40.0,0.4,0,B-32
+R-48,Câble Ethernet,10.0,0.3,21,B-33
+R-49,Tapis de souris,9.0,0.3,10,B-34
+R-50,Disque Dur Externe,50.0,0.1,17,B-57
